@@ -23,9 +23,9 @@ main = do
         print a
         print $ typeOf a
         print b
-        print $ typeOf b
+        --print $ typeOf b
         print c
-        print $ typeOf c
+        --print $ typeOf c
         hClose handle   
 
 
